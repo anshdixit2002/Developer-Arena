@@ -1,0 +1,3 @@
+# No external packages required
+# Uses only built-in Python functions: input(), print(), f-strings
+# Week 1 Python Basics project
