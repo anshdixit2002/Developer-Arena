@@ -1,0 +1,19 @@
+Test Case 1:
+Input: Priya, 85
+Output:
+📊 RESULT FOR PRIYA:
+Marks: 85/100
+Grade: B
+Very Good! Keep it up! 👍
+
+Test Case 2:
+Input: Ram, 92
+Expected: Grade A, Outstanding! Excellent work! 🎉
+
+Test Case 3:
+Input: Sita, 55
+Expected: Grade F, Failed. Please work harder! 💪
+
+Test Case 4 (Edge):
+Input: Ansh, 100 → Grade A
+Input: Karan, 0 → Grade F
