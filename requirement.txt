@@ -1,0 +1,5 @@
+your-project-folder/
+├── sales_analysis.py      # Main code
+├── sales_data.csv         # Your dataset
+├── analysis_report.md     # Report
+└── requirements.txt       # Dependencies
